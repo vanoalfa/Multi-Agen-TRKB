@@ -1,1 +1,260 @@
-
+A -> B: Halo dari Agent A pada 2025-10-06 13:29:31.268924. Pesan ke-1
+B menerima dari A: Halo dari Agent A pada 2025-10-06 13:29:31.268924. Pesan ke-1
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.285578) untuk: Halo dari Agent A pada 2025-10-06 13:29:31.268924. Pesan ke-1
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.285578) untuk: Halo dari Agent A pada 2025-10-06 13:29:31.268924. Pesan ke-1
+==================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:29:31.326035
+B menerima dari A: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:29:31.326035
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.350062) untuk: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:29:31.326035
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.350062) untuk: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:29:31.326035
+==================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:29:31.378664
+B menerima dari A: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:29:31.378664
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.405510) untuk: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:29:31.378664
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.405510) untuk: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:29:31.378664
+==================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:29:31.432781
+B menerima dari A: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:29:31.432781
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.460124) untuk: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:29:31.432781
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.460124) untuk: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:29:31.432781
+==================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:29:31.485761
+B menerima dari A: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:29:31.485761
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.513847) untuk: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:29:31.485761
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.513847) untuk: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:29:31.485761
+==================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:29:31.541118
+B menerima dari A: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:29:31.541118
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.566839) untuk: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:29:31.541118
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.566839) untuk: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:29:31.541118
+==================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:29:31.593504
+B menerima dari A: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:29:31.593504
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.620254) untuk: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:29:31.593504
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.620254) untuk: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:29:31.593504
+==================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:29:31.646910
+B menerima dari A: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:29:31.646910
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.673228) untuk: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:29:31.646910
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.673228) untuk: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:29:31.646910
+==================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:29:31.700281
+B menerima dari A: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:29:31.700281
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.727878) untuk: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:29:31.700281
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.727878) untuk: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:29:31.700281
+==================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:29:31.754217
+B menerima dari A: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:29:31.754217
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.782103) untuk: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:29:31.754217
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.782103) untuk: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:29:31.754217
+==================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:29:31.808136
+B menerima dari A: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:29:31.808136
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.834192) untuk: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:29:31.808136
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.834192) untuk: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:29:31.808136
+==================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:29:31.861043
+B menerima dari A: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:29:31.861043
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.892680) untuk: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:29:31.861043
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.892680) untuk: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:29:31.861043
+==================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:29:31.918873
+B menerima dari A: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:29:31.918873
+B -> A: Balasan dari Agent B (2025-10-06 13:29:31.946139) untuk: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:29:31.918873
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:29:31.946139) untuk: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:29:31.918873
+==================================================================================================================================
+A -> B: Halo dari Agent A pada 2025-10-06 13:37:38.475735. Pesan ke-1
+B menerima dari A: Halo dari Agent A pada 2025-10-06 13:37:38.475735. Pesan ke-1
+B -> A: Balasan dari Agent B (2025-10-06 13:37:38.532077) untuk: Halo dari Agent A pada 2025-10-06 13:37:38.475735. Pesan ke-1
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:38.532077) untuk: Halo dari Agent A pada 2025-10-06 13:37:38.475735. Pesan ke-1
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:37:38.558902
+B menerima dari A: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:37:38.558902
+B -> A: Balasan dari Agent B (2025-10-06 13:37:38.587290) untuk: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:37:38.558902
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:38.587290) untuk: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:37:38.558902
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:37:38.630413
+B menerima dari A: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:37:38.630413
+B -> A: Balasan dari Agent B (2025-10-06 13:37:38.658017) untuk: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:37:38.630413
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:38.658017) untuk: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:37:38.630413
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:37:38.685352
+B menerima dari A: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:37:38.685352
+B -> A: Balasan dari Agent B (2025-10-06 13:37:38.711858) untuk: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:37:38.685352
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:38.711858) untuk: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:37:38.685352
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:37:38.739395
+B menerima dari A: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:37:38.739395
+B -> A: Balasan dari Agent B (2025-10-06 13:37:38.766651) untuk: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:37:38.739395
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:38.766651) untuk: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:37:38.739395
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:37:38.794858
+B menerima dari A: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:37:38.794858
+B -> A: Balasan dari Agent B (2025-10-06 13:37:38.823287) untuk: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:37:38.794858
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:38.823287) untuk: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:37:38.794858
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:37:38.851872
+B menerima dari A: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:37:38.851872
+B -> A: Balasan dari Agent B (2025-10-06 13:37:38.880482) untuk: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:37:38.851872
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:38.880482) untuk: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:37:38.851872
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:37:38.910969
+B menerima dari A: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:37:38.910969
+B -> A: Balasan dari Agent B (2025-10-06 13:37:38.939308) untuk: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:37:38.910969
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:38.939308) untuk: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:37:38.910969
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:37:38.966059
+B menerima dari A: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:37:38.966059
+B -> A: Balasan dari Agent B (2025-10-06 13:37:38.993708) untuk: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:37:38.966059
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:38.993708) untuk: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:37:38.966059
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:37:39.021186
+B menerima dari A: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:37:39.021186
+B -> A: Balasan dari Agent B (2025-10-06 13:37:39.049512) untuk: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:37:39.021186
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:39.049512) untuk: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:37:39.021186
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:37:39.077354
+B menerima dari A: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:37:39.077354
+B -> A: Balasan dari Agent B (2025-10-06 13:37:39.105532) untuk: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:37:39.077354
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:39.105532) untuk: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:37:39.077354
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:37:39.133574
+B menerima dari A: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:37:39.133574
+B -> A: Balasan dari Agent B (2025-10-06 13:37:39.162865) untuk: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:37:39.133574
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:39.162865) untuk: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:37:39.133574
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:37:39.190358
+B menerima dari A: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:37:39.190358
+B -> A: Balasan dari Agent B (2025-10-06 13:37:39.219038) untuk: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:37:39.190358
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:37:39.219038) untuk: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:37:39.190358
+===================================================================================================================================================
+A -> B: Halo dari Agent A pada 2025-10-06 13:38:41.372237. Pesan ke-1
+B menerima dari A: Halo dari Agent A pada 2025-10-06 13:38:41.372237. Pesan ke-1
+B -> A: Balasan dari Agent B (2025-10-06 13:38:41.391265) untuk: Halo dari Agent A pada 2025-10-06 13:38:41.372237. Pesan ke-1
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:41.391265) untuk: Halo dari Agent A pada 2025-10-06 13:38:41.372237. Pesan ke-1
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:38:41.427976
+B menerima dari A: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:38:41.427976
+B -> A: Balasan dari Agent B (2025-10-06 13:38:41.456339) untuk: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:38:41.427976
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:41.456339) untuk: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:38:41.427976
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:38:41.484242
+B menerima dari A: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:38:41.484242
+B -> A: Balasan dari Agent B (2025-10-06 13:38:41.512604) untuk: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:38:41.484242
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:41.512604) untuk: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:38:41.484242
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:38:41.541377
+B menerima dari A: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:38:41.541377
+B -> A: Balasan dari Agent B (2025-10-06 13:38:41.569509) untuk: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:38:41.541377
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:41.569509) untuk: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:38:41.541377
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:38:41.596645
+B menerima dari A: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:38:41.596645
+B -> A: Balasan dari Agent B (2025-10-06 13:38:41.626769) untuk: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:38:41.596645
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:41.626769) untuk: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:38:41.596645
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:38:41.653702
+B menerima dari A: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:38:41.653702
+B -> A: Balasan dari Agent B (2025-10-06 13:38:41.680571) untuk: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:38:41.653702
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:41.680571) untuk: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:38:41.653702
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:38:41.709546
+B menerima dari A: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:38:41.709546
+B -> A: Balasan dari Agent B (2025-10-06 13:38:41.737770) untuk: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:38:41.709546
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:41.737770) untuk: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:38:41.709546
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:38:41.765493
+B menerima dari A: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:38:41.765493
+B -> A: Balasan dari Agent B (2025-10-06 13:38:41.793726) untuk: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:38:41.765493
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:41.793726) untuk: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:38:41.765493
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:38:41.821401
+B menerima dari A: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:38:41.821401
+B -> A: Balasan dari Agent B (2025-10-06 13:38:41.848444) untuk: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:38:41.821401
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:41.848444) untuk: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:38:41.821401
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:38:41.877502
+B menerima dari A: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:38:41.877502
+B -> A: Balasan dari Agent B (2025-10-06 13:38:41.906247) untuk: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:38:41.877502
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:41.906247) untuk: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:38:41.877502
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:38:41.937799
+B menerima dari A: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:38:41.937799
+B -> A: Balasan dari Agent B (2025-10-06 13:38:41.965056) untuk: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:38:41.937799
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:41.965056) untuk: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:38:41.937799
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:38:41.994266
+B menerima dari A: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:38:41.994266
+B -> A: Balasan dari Agent B (2025-10-06 13:38:42.025392) untuk: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:38:41.994266
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:42.025392) untuk: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:38:41.994266
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:38:42.053585
+B menerima dari A: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:38:42.053585
+B -> A: Balasan dari Agent B (2025-10-06 13:38:42.081674) untuk: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:38:42.053585
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:38:42.081674) untuk: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:38:42.053585
+===================================================================================================================================================
+A -> B: Halo dari Agent A pada 2025-10-06 13:39:31.494551. Pesan ke-1
+B menerima dari A: Halo dari Agent A pada 2025-10-06 13:39:31.494551. Pesan ke-1
+B -> A: Balasan dari Agent B (2025-10-06 13:39:37.366973) untuk: Halo dari Agent A pada 2025-10-06 13:39:31.494551. Pesan ke-1
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:37.366973) untuk: Halo dari Agent A pada 2025-10-06 13:39:31.494551. Pesan ke-1
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:39:37.395251
+B menerima dari A: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:39:37.395251
+B -> A: Balasan dari Agent B (2025-10-06 13:39:37.451418) untuk: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:39:37.395251
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:37.451418) untuk: Halo lagi dari Agent A (pesan ke-2) pada 2025-10-06 13:39:37.395251
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:39:37.480665
+B menerima dari A: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:39:37.480665
+B -> A: Balasan dari Agent B (2025-10-06 13:39:37.508607) untuk: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:39:37.480665
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:37.508607) untuk: Halo lagi dari Agent A (pesan ke-3) pada 2025-10-06 13:39:37.480665
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:39:37.537167
+B menerima dari A: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:39:37.537167
+B -> A: Balasan dari Agent B (2025-10-06 13:39:37.567174) untuk: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:39:37.537167
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:37.567174) untuk: Halo lagi dari Agent A (pesan ke-4) pada 2025-10-06 13:39:37.537167
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:39:37.595035
+B menerima dari A: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:39:37.595035
+B -> A: Balasan dari Agent B (2025-10-06 13:39:37.624768) untuk: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:39:37.595035
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:37.624768) untuk: Halo lagi dari Agent A (pesan ke-5) pada 2025-10-06 13:39:37.595035
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:39:37.653152
+B menerima dari A: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:39:37.653152
+B -> A: Balasan dari Agent B (2025-10-06 13:39:37.680843) untuk: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:39:37.653152
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:37.680843) untuk: Halo lagi dari Agent A (pesan ke-6) pada 2025-10-06 13:39:37.653152
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:39:37.708838
+B menerima dari A: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:39:37.708838
+B -> A: Balasan dari Agent B (2025-10-06 13:39:37.736616) untuk: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:39:37.708838
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:37.736616) untuk: Halo lagi dari Agent A (pesan ke-7) pada 2025-10-06 13:39:37.708838
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:39:37.762994
+B menerima dari A: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:39:37.762994
+B -> A: Balasan dari Agent B (2025-10-06 13:39:37.791248) untuk: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:39:37.762994
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:37.791248) untuk: Halo lagi dari Agent A (pesan ke-8) pada 2025-10-06 13:39:37.762994
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:39:37.818509
+B menerima dari A: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:39:37.818509
+B -> A: Balasan dari Agent B (2025-10-06 13:39:37.844692) untuk: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:39:37.818509
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:37.844692) untuk: Halo lagi dari Agent A (pesan ke-9) pada 2025-10-06 13:39:37.818509
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:39:37.873022
+B menerima dari A: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:39:37.873022
+B -> A: Balasan dari Agent B (2025-10-06 13:39:37.899986) untuk: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:39:37.873022
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:37.899986) untuk: Halo lagi dari Agent A (pesan ke-10) pada 2025-10-06 13:39:37.873022
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:39:37.927776
+B menerima dari A: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:39:37.927776
+B -> A: Balasan dari Agent B (2025-10-06 13:39:37.955938) untuk: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:39:37.927776
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:37.955938) untuk: Halo lagi dari Agent A (pesan ke-11) pada 2025-10-06 13:39:37.927776
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:39:37.984523
+B menerima dari A: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:39:37.984523
+B -> A: Balasan dari Agent B (2025-10-06 13:39:38.013495) untuk: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:39:37.984523
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:38.013495) untuk: Halo lagi dari Agent A (pesan ke-12) pada 2025-10-06 13:39:37.984523
+===================================================================================================================================================
+A -> B: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:39:38.040818
+B menerima dari A: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:39:38.040818
+B -> A: Balasan dari Agent B (2025-10-06 13:39:38.067535) untuk: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:39:38.040818
+A menerima dari B: Balasan dari Agent B (2025-10-06 13:39:38.067535) untuk: Halo lagi dari Agent A (pesan ke-13) pada 2025-10-06 13:39:38.040818
+===================================================================================================================================================
