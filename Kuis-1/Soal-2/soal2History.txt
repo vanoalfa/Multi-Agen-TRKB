@@ -1,1 +1,40 @@
-
+[2025-10-08 12:45:16.394858] [B] Voting: c@localhost
+[2025-10-08 12:45:16.396036] [C] Voting: c@localhost
+[2025-10-08 12:45:16.411055] [A] Voting: c@localhost
+[2025-10-08 12:45:16.411082] Durasi Voting:  17.20 detik
+[2025-10-08 12:45:16.423512] [C] Koordinator aktif: a@localhost
+[2025-10-08 12:45:16.436232] [A] Koordinator aktif: a@localhost
+C porsi=55.56%
+[2025-10-08 12:45:16.471340] [B] Koordinator aktif: a@localhost
+A porsi=11.11%
+B porsi=33.33%
+[2025-10-08 12:45:26.474256] [C] Koordinator aktif: b@localhost
+C porsi=55.56%
+[2025-10-08 12:45:26.487312] [A] Koordinator aktif: b@localhost
+[2025-10-08 12:45:26.500922] [B] Koordinator aktif: b@localhost
+A porsi=11.11%
+B porsi=33.33%
+[2025-10-08 12:45:36.519957] [A] Koordinator aktif: c@localhost
+[2025-10-08 12:45:36.519965] [C] Koordinator aktif: c@localhost
+[2025-10-08 12:45:36.520221] [B] Koordinator aktif: c@localhost
+A porsi=11.11%
+B porsi=33.33%
+C porsi=55.56%
+[2025-10-08 12:45:46.566611] [B] Koordinator aktif: a@localhost
+[2025-10-08 12:45:46.566588] [A] Koordinator aktif: a@localhost
+[2025-10-08 12:45:46.567107] [C] Koordinator aktif: a@localhost
+C porsi=55.56%
+B porsi=33.33%
+A porsi=11.11%
+[2025-10-08 12:45:56.614346] [C] Koordinator aktif: b@localhost
+C porsi=55.56%
+[2025-10-08 12:45:56.663386] [A] Koordinator aktif: b@localhost
+[2025-10-08 12:45:56.663386] [B] Koordinator aktif: b@localhost
+B porsi=33.33%
+A porsi=11.11%
+[2025-10-08 12:46:06.687404] [C] Koordinator aktif: c@localhost
+[2025-10-08 12:46:06.688896] [B] Koordinator aktif: c@localhost
+[2025-10-08 12:46:06.717058] [A] Koordinator aktif: c@localhost
+C porsi=55.56%
+B porsi=33.33%
+A porsi=11.11%
