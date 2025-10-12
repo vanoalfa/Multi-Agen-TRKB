@@ -1,1 +1,65 @@
 
+===== Simulasi untuk Pembeli 1 =====
+Ronde 1: Pembeli 1 memilih Penjual 1
+  → Reward: 3.75
+  → Q-Value Penjual 1: 1.88
+  → Reputasi Penjual 1: 0.38, Penjual 2: 0.50
+
+Ronde 2: Pembeli 1 memilih Penjual 2
+  → Reward: 4.50
+  → Q-Value Penjual 2: 3.00
+  → Reputasi Penjual 1: 0.38, Penjual 2: 0.40
+
+Ronde 3: Pembeli 1 memilih Penjual 2
+  → Reward: 4.00
+  → Q-Value Penjual 2: 4.70
+  → Reputasi Penjual 1: 0.38, Penjual 2: 0.33
+
+Ronde 4: Pembeli 1 memilih Penjual 2
+  → Reward: 3.67
+  → Q-Value Penjual 2: 6.06
+  → Reputasi Penjual 1: 0.38, Penjual 2: 0.29
+
+Ronde 5: Pembeli 1 memilih Penjual 2
+  → Reward: 3.44
+  → Q-Value Penjual 2: 7.18
+  → Reputasi Penjual 1: 0.38, Penjual 2: 0.26
+
+=====================================
+
+===== Simulasi untuk Pembeli 2 =====
+Ronde 1: Pembeli 2 memilih Penjual 1
+  → Reward: 3.12
+  → Q-Value Penjual 1: 1.56
+  → Reputasi Penjual 1: 0.29, Penjual 2: 0.26
+
+Ronde 2: Pembeli 2 memilih Penjual 1
+  → Reward: 2.71
+  → Q-Value Penjual 1: 2.76
+  → Reputasi Penjual 1: 0.24, Penjual 2: 0.26
+
+Ronde 3: Pembeli 2 memilih Penjual 1
+  → Reward: 2.43
+  → Q-Value Penjual 1: 3.70
+  → Reputasi Penjual 1: 0.20, Penjual 2: 0.26
+
+Ronde 4: Pembeli 2 memilih Penjual 2
+  → Reward: 3.30
+  → Q-Value Penjual 2: 3.13
+  → Reputasi Penjual 1: 0.20, Penjual 2: 0.24
+
+Ronde 5: Pembeli 2 memilih Penjual 1
+  → Reward: 2.25
+  → Q-Value Penjual 1: 4.45
+  → Reputasi Penjual 1: 0.17, Penjual 2: 0.24
+
+=====================================
+
+=== Q-Table Akhir ===
+Pembeli 1: {'Penjual 1': 1.875, 'Penjual 2': 7.179222222222223}
+Pembeli 2: {'Penjual 1': 4.4523726851851855, 'Penjual 2': 3.12800925925926}
+
+=== Reputasi Akhir Penjual ===
+Penjual 1: reputasi=0.17, harga=8
+Penjual 2: reputasi=0.24, harga=5
+
