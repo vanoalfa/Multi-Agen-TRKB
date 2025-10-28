@@ -1,0 +1,5 @@
+spade
+aioconsole
+matplotlib
+pandas
+python-dotenv

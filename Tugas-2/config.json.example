@@ -1,0 +1,70 @@
+{
+  "seed": 163221013,
+
+  "agents": {
+    "manager_agent": {
+      "jid": "manager@localhost"
+    },
+
+    "workers": [
+      {
+        "jid": "w1@localhost",
+        "skill": 1.0,
+        "p_fail": 0.10
+      },
+      {
+        "jid": "w2@localhost",
+        "skill": 0.9,
+        "p_fail": 0.15
+      },
+      {
+        "jid": "w3@localhost",
+        "skill": 1.2,
+        "p_fail": 0.10
+      },
+      {
+        "jid": "w4@localhost",
+        "skill": 0.8,
+        "p_fail": 0.20
+      },
+      {
+        "jid": "w5@localhost",
+        "skill": 1.1,
+        "p_fail": 0.15
+      }
+    ]
+  },
+
+  "reputation": {
+    "initial": 0.5,
+    "delta_success": 0.05,
+    "delta_fail": -0.10
+  },
+
+  "utility_weights": {
+    "w_proposal": 0.7,
+    "w_rep": 0.3
+  },
+
+  "timeouts": {
+    "bid_timeout": 8,
+    "exec_timeout": 8
+  },
+
+  "persist_logs_dir": "logs",
+
+  "scenarios": {
+    "A": {
+      "tasks": 3,
+      "workers": 3
+    },
+    "B": {
+      "tasks": 5,
+      "workers": 4
+    },
+    "C": {
+      "tasks": 10,
+      "workers": 5
+    }
+  }
+}
