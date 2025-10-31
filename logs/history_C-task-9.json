@@ -1,0 +1,30 @@
+[
+  {
+    "task_id": "C-task-9",
+    "worker_jid": "w3@localhost",
+    "status": "assigned",
+    "reason": "",
+    "timestamp": 1761820275.7309527
+  },
+  {
+    "task_id": "C-task-9",
+    "worker_jid": "w3@localhost",
+    "status": "fail",
+    "reason": "simulated_failure",
+    "timestamp": 1761820278.8021097
+  },
+  {
+    "task_id": "C-task-9",
+    "worker_jid": "w5@localhost",
+    "status": "reassigned",
+    "reason": "",
+    "timestamp": 1761820279.145385
+  },
+  {
+    "task_id": "C-task-9",
+    "worker_jid": "w5@localhost",
+    "status": "success",
+    "reason": "",
+    "timestamp": 1761820282.4970315
+  }
+]

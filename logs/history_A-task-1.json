@@ -1,0 +1,16 @@
+[
+  {
+    "task_id": "A-task-1",
+    "worker_jid": "w3@localhost",
+    "status": "assigned",
+    "reason": "",
+    "timestamp": 1761819581.0947716
+  },
+  {
+    "task_id": "A-task-1",
+    "worker_jid": "w3@localhost",
+    "status": "success",
+    "reason": "",
+    "timestamp": 1761819584.2656844
+  }
+]

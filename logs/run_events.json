@@ -1,0 +1,576 @@
+[
+  {
+    "type": "task_created",
+    "task": {
+      "id": "C-task-0",
+      "base_cost": 135.4816640572401,
+      "base_time": 3.3097872194845364
+    },
+    "time_iso": "2025-10-30T17:30:35"
+  },
+  {
+    "type": "announce",
+    "task": {
+      "id": "C-task-0",
+      "base_cost": 135.4816640572401,
+      "base_time": 3.3097872194845364
+    },
+    "workers": [
+      "w5@localhost",
+      "w4@localhost",
+      "w1@localhost",
+      "w2@localhost",
+      "w3@localhost"
+    ],
+    "time_iso": "2025-10-30T17:30:35"
+  },
+  {
+    "type": "award",
+    "task": {
+      "id": "C-task-0",
+      "base_cost": 135.4816640572401,
+      "base_time": 3.3097872194845364
+    },
+    "winner": "w3@localhost",
+    "time_iso": "2025-10-30T17:30:36"
+  },
+  {
+    "type": "assignment_history_snapshot",
+    "task_id": "C-task-0",
+    "history": [
+      {
+        "task_id": "C-task-0",
+        "worker_jid": "w3@localhost",
+        "status": "assigned",
+        "reason": "",
+        "timestamp": 1761820236.2560742
+      },
+      {
+        "task_id": "C-task-0",
+        "worker_jid": "w3@localhost",
+        "status": "success",
+        "reason": "",
+        "timestamp": 1761820239.02146
+      }
+    ],
+    "time_iso": "2025-10-30T17:30:39"
+  },
+  {
+    "type": "task_created",
+    "task": {
+      "id": "C-task-1",
+      "base_cost": 81.6010951604413,
+      "base_time": 3.8003527899111624
+    },
+    "time_iso": "2025-10-30T17:30:39"
+  },
+  {
+    "type": "announce",
+    "task": {
+      "id": "C-task-1",
+      "base_cost": 81.6010951604413,
+      "base_time": 3.8003527899111624
+    },
+    "workers": [
+      "w1@localhost",
+      "w3@localhost",
+      "w4@localhost",
+      "w5@localhost",
+      "w2@localhost"
+    ],
+    "time_iso": "2025-10-30T17:30:39"
+  },
+  {
+    "type": "award",
+    "task": {
+      "id": "C-task-1",
+      "base_cost": 81.6010951604413,
+      "base_time": 3.8003527899111624
+    },
+    "winner": "w3@localhost",
+    "time_iso": "2025-10-30T17:30:39"
+  },
+  {
+    "type": "assignment_history_snapshot",
+    "task_id": "C-task-1",
+    "history": [
+      {
+        "task_id": "C-task-1",
+        "worker_jid": "w3@localhost",
+        "status": "assigned",
+        "reason": "",
+        "timestamp": 1761820239.488369
+      },
+      {
+        "task_id": "C-task-1",
+        "worker_jid": "w3@localhost",
+        "status": "success",
+        "reason": "",
+        "timestamp": 1761820242.6619406
+      }
+    ],
+    "time_iso": "2025-10-30T17:30:42"
+  },
+  {
+    "type": "task_created",
+    "task": {
+      "id": "C-task-2",
+      "base_cost": 126.72163303945577,
+      "base_time": 7.430059318042513
+    },
+    "time_iso": "2025-10-30T17:30:42"
+  },
+  {
+    "type": "announce",
+    "task": {
+      "id": "C-task-2",
+      "base_cost": 126.72163303945577,
+      "base_time": 7.430059318042513
+    },
+    "workers": [
+      "w5@localhost",
+      "w4@localhost",
+      "w2@localhost",
+      "w3@localhost",
+      "w1@localhost"
+    ],
+    "time_iso": "2025-10-30T17:30:42"
+  },
+  {
+    "type": "award",
+    "task": {
+      "id": "C-task-2",
+      "base_cost": 126.72163303945577,
+      "base_time": 7.430059318042513
+    },
+    "winner": "w3@localhost",
+    "time_iso": "2025-10-30T17:30:43"
+  },
+  {
+    "type": "assignment_history_snapshot",
+    "task_id": "C-task-2",
+    "history": [
+      {
+        "task_id": "C-task-2",
+        "worker_jid": "w3@localhost",
+        "status": "assigned",
+        "reason": "",
+        "timestamp": 1761820243.226864
+      },
+      {
+        "task_id": "C-task-2",
+        "worker_jid": "w3@localhost",
+        "status": "success",
+        "reason": "",
+        "timestamp": 1761820249.429771
+      }
+    ],
+    "time_iso": "2025-10-30T17:30:49"
+  },
+  {
+    "type": "task_created",
+    "task": {
+      "id": "C-task-3",
+      "base_cost": 55.75329153025189,
+      "base_time": 6.415350856866905
+    },
+    "time_iso": "2025-10-30T17:30:49"
+  },
+  {
+    "type": "announce",
+    "task": {
+      "id": "C-task-3",
+      "base_cost": 55.75329153025189,
+      "base_time": 6.415350856866905
+    },
+    "workers": [
+      "w4@localhost",
+      "w3@localhost",
+      "w5@localhost",
+      "w2@localhost",
+      "w1@localhost"
+    ],
+    "time_iso": "2025-10-30T17:30:49"
+  },
+  {
+    "type": "award",
+    "task": {
+      "id": "C-task-3",
+      "base_cost": 55.75329153025189,
+      "base_time": 6.415350856866905
+    },
+    "winner": "w3@localhost",
+    "time_iso": "2025-10-30T17:30:49"
+  },
+  {
+    "type": "assignment_history_snapshot",
+    "task_id": "C-task-3",
+    "history": [
+      {
+        "task_id": "C-task-3",
+        "worker_jid": "w3@localhost",
+        "status": "assigned",
+        "reason": "",
+        "timestamp": 1761820249.770403
+      },
+      {
+        "task_id": "C-task-3",
+        "worker_jid": "w3@localhost",
+        "status": "success",
+        "reason": "",
+        "timestamp": 1761820255.1229148
+      }
+    ],
+    "time_iso": "2025-10-30T17:30:55"
+  },
+  {
+    "type": "task_created",
+    "task": {
+      "id": "C-task-4",
+      "base_cost": 53.33203264356976,
+      "base_time": 2.8271232460939832
+    },
+    "time_iso": "2025-10-30T17:30:55"
+  },
+  {
+    "type": "announce",
+    "task": {
+      "id": "C-task-4",
+      "base_cost": 53.33203264356976,
+      "base_time": 2.8271232460939832
+    },
+    "workers": [
+      "w1@localhost",
+      "w4@localhost",
+      "w5@localhost",
+      "w2@localhost",
+      "w3@localhost"
+    ],
+    "time_iso": "2025-10-30T17:30:55"
+  },
+  {
+    "type": "award",
+    "task": {
+      "id": "C-task-4",
+      "base_cost": 53.33203264356976,
+      "base_time": 2.8271232460939832
+    },
+    "winner": "w3@localhost",
+    "time_iso": "2025-10-30T17:30:55"
+  },
+  {
+    "type": "assignment_history_snapshot",
+    "task_id": "C-task-4",
+    "history": [
+      {
+        "task_id": "C-task-4",
+        "worker_jid": "w3@localhost",
+        "status": "assigned",
+        "reason": "",
+        "timestamp": 1761820255.6907816
+      },
+      {
+        "task_id": "C-task-4",
+        "worker_jid": "w3@localhost",
+        "status": "success",
+        "reason": "",
+        "timestamp": 1761820258.051667
+      }
+    ],
+    "time_iso": "2025-10-30T17:30:58"
+  },
+  {
+    "type": "task_created",
+    "task": {
+      "id": "C-task-5",
+      "base_cost": 164.3844586565036,
+      "base_time": 4.150566045003857
+    },
+    "time_iso": "2025-10-30T17:30:58"
+  },
+  {
+    "type": "announce",
+    "task": {
+      "id": "C-task-5",
+      "base_cost": 164.3844586565036,
+      "base_time": 4.150566045003857
+    },
+    "workers": [
+      "w3@localhost",
+      "w4@localhost",
+      "w1@localhost",
+      "w2@localhost",
+      "w5@localhost"
+    ],
+    "time_iso": "2025-10-30T17:30:58"
+  },
+  {
+    "type": "award",
+    "task": {
+      "id": "C-task-5",
+      "base_cost": 164.3844586565036,
+      "base_time": 4.150566045003857
+    },
+    "winner": "w3@localhost",
+    "time_iso": "2025-10-30T17:30:58"
+  },
+  {
+    "type": "assignment_history_snapshot",
+    "task_id": "C-task-5",
+    "history": [
+      {
+        "task_id": "C-task-5",
+        "worker_jid": "w3@localhost",
+        "status": "assigned",
+        "reason": "",
+        "timestamp": 1761820258.6067674
+      },
+      {
+        "task_id": "C-task-5",
+        "worker_jid": "w3@localhost",
+        "status": "success",
+        "reason": "",
+        "timestamp": 1761820262.0671844
+      }
+    ],
+    "time_iso": "2025-10-30T17:31:02"
+  },
+  {
+    "type": "task_created",
+    "task": {
+      "id": "C-task-6",
+      "base_cost": 166.48274229132943,
+      "base_time": 2.0022090555164427
+    },
+    "time_iso": "2025-10-30T17:31:02"
+  },
+  {
+    "type": "announce",
+    "task": {
+      "id": "C-task-6",
+      "base_cost": 166.48274229132943,
+      "base_time": 2.0022090555164427
+    },
+    "workers": [
+      "w2@localhost",
+      "w4@localhost",
+      "w1@localhost",
+      "w5@localhost",
+      "w3@localhost"
+    ],
+    "time_iso": "2025-10-30T17:31:02"
+  },
+  {
+    "type": "award",
+    "task": {
+      "id": "C-task-6",
+      "base_cost": 166.48274229132943,
+      "base_time": 2.0022090555164427
+    },
+    "winner": "w3@localhost",
+    "time_iso": "2025-10-30T17:31:02"
+  },
+  {
+    "type": "assignment_history_snapshot",
+    "task_id": "C-task-6",
+    "history": [
+      {
+        "task_id": "C-task-6",
+        "worker_jid": "w3@localhost",
+        "status": "assigned",
+        "reason": "",
+        "timestamp": 1761820262.5913484
+      },
+      {
+        "task_id": "C-task-6",
+        "worker_jid": "w3@localhost",
+        "status": "success",
+        "reason": "",
+        "timestamp": 1761820264.261799
+      }
+    ],
+    "time_iso": "2025-10-30T17:31:04"
+  },
+  {
+    "type": "task_created",
+    "task": {
+      "id": "C-task-7",
+      "base_cost": 183.87991634552364,
+      "base_time": 4.377732812057067
+    },
+    "time_iso": "2025-10-30T17:31:04"
+  },
+  {
+    "type": "announce",
+    "task": {
+      "id": "C-task-7",
+      "base_cost": 183.87991634552364,
+      "base_time": 4.377732812057067
+    },
+    "workers": [
+      "w4@localhost",
+      "w3@localhost",
+      "w5@localhost",
+      "w2@localhost",
+      "w1@localhost"
+    ],
+    "time_iso": "2025-10-30T17:31:04"
+  },
+  {
+    "type": "award",
+    "task": {
+      "id": "C-task-7",
+      "base_cost": 183.87991634552364,
+      "base_time": 4.377732812057067
+    },
+    "winner": "w3@localhost",
+    "time_iso": "2025-10-30T17:31:04"
+  },
+  {
+    "type": "assignment_history_snapshot",
+    "task_id": "C-task-7",
+    "history": [
+      {
+        "task_id": "C-task-7",
+        "worker_jid": "w3@localhost",
+        "status": "assigned",
+        "reason": "",
+        "timestamp": 1761820264.6006694
+      },
+      {
+        "task_id": "C-task-7",
+        "worker_jid": "w3@localhost",
+        "status": "success",
+        "reason": "",
+        "timestamp": 1761820268.2606375
+      }
+    ],
+    "time_iso": "2025-10-30T17:31:08"
+  },
+  {
+    "type": "task_created",
+    "task": {
+      "id": "C-task-8",
+      "base_cost": 169.71485676982087,
+      "base_time": 7.891129325112154
+    },
+    "time_iso": "2025-10-30T17:31:08"
+  },
+  {
+    "type": "announce",
+    "task": {
+      "id": "C-task-8",
+      "base_cost": 169.71485676982087,
+      "base_time": 7.891129325112154
+    },
+    "workers": [
+      "w1@localhost",
+      "w3@localhost",
+      "w5@localhost",
+      "w2@localhost",
+      "w4@localhost"
+    ],
+    "time_iso": "2025-10-30T17:31:08"
+  },
+  {
+    "type": "award",
+    "task": {
+      "id": "C-task-8",
+      "base_cost": 169.71485676982087,
+      "base_time": 7.891129325112154
+    },
+    "winner": "w3@localhost",
+    "time_iso": "2025-10-30T17:31:08"
+  },
+  {
+    "type": "assignment_history_snapshot",
+    "task_id": "C-task-8",
+    "history": [
+      {
+        "task_id": "C-task-8",
+        "worker_jid": "w3@localhost",
+        "status": "assigned",
+        "reason": "",
+        "timestamp": 1761820268.64211
+      },
+      {
+        "task_id": "C-task-8",
+        "worker_jid": "w3@localhost",
+        "status": "success",
+        "reason": "",
+        "timestamp": 1761820275.229682
+      }
+    ],
+    "time_iso": "2025-10-30T17:31:15"
+  },
+  {
+    "type": "task_created",
+    "task": {
+      "id": "C-task-9",
+      "base_cost": 120.20468601205438,
+      "base_time": 3.680656811185539
+    },
+    "time_iso": "2025-10-30T17:31:15"
+  },
+  {
+    "type": "announce",
+    "task": {
+      "id": "C-task-9",
+      "base_cost": 120.20468601205438,
+      "base_time": 3.680656811185539
+    },
+    "workers": [
+      "w1@localhost",
+      "w3@localhost",
+      "w2@localhost",
+      "w5@localhost",
+      "w4@localhost"
+    ],
+    "time_iso": "2025-10-30T17:31:15"
+  },
+  {
+    "type": "award",
+    "task": {
+      "id": "C-task-9",
+      "base_cost": 120.20468601205438,
+      "base_time": 3.680656811185539
+    },
+    "winner": "w3@localhost",
+    "time_iso": "2025-10-30T17:31:15"
+  },
+  {
+    "type": "assignment_history_snapshot",
+    "task_id": "C-task-9",
+    "history": [
+      {
+        "task_id": "C-task-9",
+        "worker_jid": "w3@localhost",
+        "status": "assigned",
+        "reason": "",
+        "timestamp": 1761820275.7309527
+      },
+      {
+        "task_id": "C-task-9",
+        "worker_jid": "w3@localhost",
+        "status": "fail",
+        "reason": "simulated_failure",
+        "timestamp": 1761820278.8021097
+      },
+      {
+        "task_id": "C-task-9",
+        "worker_jid": "w5@localhost",
+        "status": "reassigned",
+        "reason": "",
+        "timestamp": 1761820279.145385
+      },
+      {
+        "task_id": "C-task-9",
+        "worker_jid": "w5@localhost",
+        "status": "success",
+        "reason": "",
+        "timestamp": 1761820282.4970315
+      }
+    ],
+    "time_iso": "2025-10-30T17:31:22"
+  }
+]

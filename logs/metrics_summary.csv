@@ -1,0 +1,11 @@
+time_iso,type,task,worker,status,reason
+2025-10-30T17:30:39,task_result,C-task-0,w3@localhost,success,
+2025-10-30T17:30:42,task_result,C-task-1,w3@localhost,success,
+2025-10-30T17:30:49,task_result,C-task-2,w3@localhost,success,
+2025-10-30T17:30:55,task_result,C-task-3,w3@localhost,success,
+2025-10-30T17:30:58,task_result,C-task-4,w3@localhost,success,
+2025-10-30T17:31:02,task_result,C-task-5,w3@localhost,success,
+2025-10-30T17:31:04,task_result,C-task-6,w3@localhost,success,
+2025-10-30T17:31:08,task_result,C-task-7,w3@localhost,success,
+2025-10-30T17:31:15,task_result,C-task-8,w3@localhost,success,
+2025-10-30T17:31:22,task_result,C-task-9,w5@localhost,fail,

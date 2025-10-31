@@ -1,0 +1,44 @@
+[
+  {
+    "task_id": "B-task-3",
+    "worker_jid": "w3@localhost",
+    "status": "assigned",
+    "reason": "",
+    "timestamp": 1761819625.269011
+  },
+  {
+    "task_id": "B-task-3",
+    "worker_jid": "w3@localhost",
+    "status": "fail",
+    "reason": "simulated_failure",
+    "timestamp": 1761819630.6248796
+  },
+  {
+    "task_id": "B-task-3",
+    "worker_jid": "w1@localhost",
+    "status": "reassigned",
+    "reason": "",
+    "timestamp": 1761819630.88337
+  },
+  {
+    "task_id": "B-task-3",
+    "worker_jid": "w1@localhost",
+    "status": "fail",
+    "reason": "simulated_failure",
+    "timestamp": 1761819637.3063927
+  },
+  {
+    "task_id": "B-task-3",
+    "worker_jid": "w2@localhost",
+    "status": "reassigned",
+    "reason": "",
+    "timestamp": 1761819637.5354512
+  },
+  {
+    "task_id": "B-task-3",
+    "worker_jid": "w2@localhost",
+    "status": "success",
+    "reason": "",
+    "timestamp": 1761819644.6766973
+  }
+]
